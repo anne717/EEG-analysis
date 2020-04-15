@@ -1,5 +1,5 @@
 AV 30th March 2020. 
-Require Python 2.7 to run.
+Requires Python 2.7 to run.
 These scripts were developed to analyse FFT generated from Spike2 recordings, during different sleep-wake states and in different conditions. These scripts were specifically developed to analysed how spectral activity changes before and after a particular conditions (e.g. a sustained optogenetic stimulation or behavioral intervention)
 
 check_spike_spectra.py    Checks the files exported from the Spike2 Online Sleep Detection Script Gated Power function.
